@@ -9,13 +9,19 @@
     <version>1.0-SNAPSHOT</version>
     <packaging>war</packaging>
 
+    <developers>
+        <developer>
+          <name> ANDRE BORGES</name>
+          <email>andremb2211@gmail.com</email>
+        </developer>
+    </developers>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <failOnMissingWebXml>false</failOnMissingWebXml>
         <maven.compiler.source>1.8</maven.compiler.source>
         <maven.compiler.target>1.8</maven.compiler.target>
-    </properties>
+    </properties>>
 
 
     <dependencies>
